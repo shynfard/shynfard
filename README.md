@@ -6,7 +6,7 @@
 - Full-Stack
 - AI
 
-#### Engineer Working in Frankfurt, Germany.
+#### engineer working in Frankfurt, Germany.
 
 ### BIO
 
