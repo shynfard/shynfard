@@ -2,17 +2,17 @@
 
 #### I'm a
 
-- DevOps
-- Full-Stack
-- AI
+- DevOps Engineer
+- Full-Stack Developer
+- AI Specialist
 
-#### engineer working in Frankfurt, Germany.
+#### working in Frankfurt, Germany.
 
 ### BIO
 
-- 🏢 I'm currently working at **Fraunhofer institute**
+- 💼 I'm currently working as a Lead DevOps Engineer and Cloud Engineer at **Devoteam GmbH**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`, `.go`, `.tf`, `.yml`, `.sh`
-- 💬 Ping me about **Development**, **Operation**, **Security**, **Machine learning**, **Frontend**, **Backend**
+- 💬 Ping me about **Development**, **Operations**, **Security**, **Machine Learning**, **Frontend**, **Backend**
 
 ### 📫 Reach me
 
